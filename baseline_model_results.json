@@ -1,0 +1,10 @@
+{
+    "model": "Logistic Regression",
+    "accuracy": 0.6600774299412866,
+    "precision": 0.3432506887052342,
+    "recall": 0.6890745975175125,
+    "f1_score": 0.4582379862700229,
+    "roc_auc": 0.7368509290707907,
+    "training_records": 48889,
+    "testing_records": 39003
+}
